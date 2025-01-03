@@ -16,7 +16,7 @@ In the competitive retail landscape, understanding consumer sensitivity to price
 
 ## Repository Contents
 
-- **SCC460 Kappa Report.docx**: Detailed report covering methodology, results, and conclusions.
+- **SCC460 Kappa Report.pdf**: Detailed report covering methodology, results, and conclusions.
 - **PPT Team Kappa.pdf**: Presentation summarizing key findings and methodologies used.
 
 ## Methodology
