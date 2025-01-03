@@ -35,7 +35,7 @@ In the competitive retail landscape, understanding consumer sensitivity to price
 - **Prophet**: Modeled non-linear trends and holiday effects.
 
 ### 4. Results:
-- SARIMA (1,0,1)x(0,1,1,12) was identified as the best-performing model based on AIC.
+- SARIMA was identified as the best-performing model based on AIC as compared to ARIMA.
 - Elasticity analysis revealed opportunities for price adjustments to enhance profitability.
 
 ## Team Contributions
